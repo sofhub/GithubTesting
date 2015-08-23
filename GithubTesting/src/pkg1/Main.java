@@ -16,5 +16,6 @@ public class Main {
 		System.out.println("sofhub-008");
 		System.out.println("sofhub-009");
 		System.out.println("sofhub2-y04");
+		System.out.println("sofhub2-y05");
 	}
 }
